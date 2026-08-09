@@ -170,6 +170,8 @@ input:not(:placeholder-shown) + .suasenha
 @media (min-width:0px) and (max-width:490px){
 .login{
     box-shadow: none;
+    width: 300px;
+    height: 400px;
     
 }
 }
