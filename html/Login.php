@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -27,7 +27,7 @@
         </div>
         <button class="botao">Enter</button>
         <a href="">Esqueces-te da palavra-passe?</a>
-        <a href="Cadastro.html" class="cadalogo"> <button class="botaoCadastrar">Criar uma conta</button></a>
+        <a href="Cadastro.php" class="cadalogo"> <button class="botaoCadastrar">Criar uma conta</button></a>
     </div>
     <script src="../js/animacao_do_login.js"></script>
     <img src="../image/conpany.png" alt="Empresa" class="logoDaEmpresa">
